@@ -44,5 +44,5 @@ Block Rewards: 1st year nominal stake interest :50%
                              5-10 year nominal stake interest :5% per year
                              10 years onward nominal stake interest:3% per year
 
-- Ports: 7155 (connection) and 7154 (RPC)
+
 
